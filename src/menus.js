@@ -41,19 +41,3 @@ export const settingsMenu = [
 ]
 
 export default menus;
-
-addMenu({
-	id: '_BLxJgCcvEfCGRdp12HFTEA',
-	route: '/menu',
-    label: 'Menu',
-    permission: '',
-	subMenus: [],
-})
-
-addMenu({
-	id: '_3wAvACdVEfCZsujHyoUQXg',
-	route: '',
-    label: 'Voucher',
-    permission: '',
-	subMenus: [],
-})
