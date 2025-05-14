@@ -13,8 +13,8 @@ import { useNavigate } from "react-router";
 import { useAuth } from '@/commons/auth';
 import MenuTable from "../components/MenuTable";
 
-import getDataBinding from '../services/getDataBinding'
-const MenuPage = props => {
+import getDataMenu from '../services/getDataMenu'
+const MenuManagerPage = props => {
 const { checkPermission } = useAuth();
 
 	const [isLoading, setIsLoading] = useState({
@@ -23,51 +23,63 @@ const { checkPermission } = useAuth();
 	});
 	const { setTitle } = useContext(HeaderContext);
 
-const [dataBinding, setDataBinding] = useState()
+const [dataMenu, setDataMenu] = useState()
 	
 	
 	
+	const [tableMenuDataVersion, setTableMenuDataVersion] = useState(0)
+
 	useEffect(() => {
-		
+		if (!tableMenuParams) return
 
 		const fetchData = async () => {
 			try {
 				setIsLoading(prev => ({...prev, tableMenu: true}))
-				const { data: dataBinding } = await getDataBinding()
-				setDataBinding(dataBinding.data)
+				const { data: dataMenu } = await getDataMenu()
+				setDataMenu(dataMenu.data)
 			} finally {
 				setIsLoading(prev => ({...prev, tableMenu: false}))
 			}
 		}
 		fetchData()
-  	}, [])
+  	}, [tableMenuDataVersion])
 
 	
 	useEffect(() => {
-		setTitle("Menu Page")
+		setTitle("Menu Manager Page")
 	}, []);
 return (
 	<Layouts.ViewContainerLayout
 		buttons={
 			<>
-			<></>
+			<Layouts.ViewContainerButtonLayout>
+			  	<Link to={`/create
+			  	`}>
+			  		<Button id="_dpo7oCqNEfCzvIuk6NYakQ" className="p-2" variant="primary">
+			  		  Create New Menu
+			  		</Button>
+			  	</Link>
+			  	
+			  	
+			
+			  </Layouts.ViewContainerButtonLayout>
 			</>
 		}
 	>
 <Layouts.ListContainerTableLayout
 	title={"Table Menu"}
 	singularName={"Menu"}
-	items={[dataBinding]}
+	items={[dataMenu]}
 	isLoading={isLoading.tableMenu}
 >
 	<MenuTable
-		dataBinding={dataBinding}
-		
+		dataMenu={dataMenu}
+		setSelectedinvalidId={setSelectedinvalidId}
 	/>
 </Layouts.ListContainerTableLayout>
 
 	</Layouts.ViewContainerLayout>
   )
 }
-export default MenuPage
+export default MenuManagerPage
 

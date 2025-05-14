@@ -11,19 +11,19 @@ import { useParams } from "@/commons/hooks/useParams"
 import { HeaderContext } from "@/commons/components"
 import { useNavigate } from "react-router";
 import { useAuth } from '@/commons/auth';
-import MenuTable from "../components/MenuTable";
+import VouchersTable from "../components/VouchersTable";
 
-import getDataBinding from '../services/getDataBinding'
-const MenuPage = props => {
+import getVouchersData from '../services/getVouchersData'
+const VouchersPage = props => {
 const { checkPermission } = useAuth();
 
 	const [isLoading, setIsLoading] = useState({
-	tableMenu: false,
+	tableVouchers: false,
 
 	});
 	const { setTitle } = useContext(HeaderContext);
 
-const [dataBinding, setDataBinding] = useState()
+const [vouchersData, setVouchersData] = useState()
 	
 	
 	
@@ -32,11 +32,11 @@ const [dataBinding, setDataBinding] = useState()
 
 		const fetchData = async () => {
 			try {
-				setIsLoading(prev => ({...prev, tableMenu: true}))
-				const { data: dataBinding } = await getDataBinding()
-				setDataBinding(dataBinding.data)
+				setIsLoading(prev => ({...prev, tableVouchers: true}))
+				const { data: vouchersData } = await getVouchersData()
+				setVouchersData(vouchersData.data)
 			} finally {
-				setIsLoading(prev => ({...prev, tableMenu: false}))
+				setIsLoading(prev => ({...prev, tableVouchers: false}))
 			}
 		}
 		fetchData()
@@ -44,7 +44,7 @@ const [dataBinding, setDataBinding] = useState()
 
 	
 	useEffect(() => {
-		setTitle("Menu Page")
+		setTitle("Vouchers Page")
 	}, []);
 return (
 	<Layouts.ViewContainerLayout
@@ -55,13 +55,13 @@ return (
 		}
 	>
 <Layouts.ListContainerTableLayout
-	title={"Table Menu"}
-	singularName={"Menu"}
-	items={[dataBinding]}
-	isLoading={isLoading.tableMenu}
+	title={"Table Vouchers"}
+	singularName={"Vouchers"}
+	items={[vouchersData]}
+	isLoading={isLoading.tableVouchers}
 >
-	<MenuTable
-		dataBinding={dataBinding}
+	<VouchersTable
+		vouchersData={vouchersData}
 		
 	/>
 </Layouts.ListContainerTableLayout>
@@ -69,5 +69,5 @@ return (
 	</Layouts.ViewContainerLayout>
   )
 }
-export default MenuPage
+export default VouchersPage
 

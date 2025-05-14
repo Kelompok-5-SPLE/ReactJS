@@ -5,16 +5,16 @@
 */
 import RequireAuth from '@/commons/auth/RequireAuth'
 
-import MenuPage from './containers/MenuPage'
+import PromoPage from './containers/PromoPage'
 
-const menuRoutes = [
+const promoRoutes = [
 { 
-	path: "/menu",
-	element: <MenuPage />,
+	path: "/promo",
+	element: <PromoPage />,
 }
 
 	
 
 ]
 
-export default menuRoutes
+export default promoRoutes

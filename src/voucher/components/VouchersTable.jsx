@@ -12,7 +12,9 @@ import { Button, Modal,Spinner } from '@/commons/components';
 
 import * as Layouts from "@/commons/layouts";
 
-const MenuTable = ({ dataBinding,
+const VouchersTable = ({ vouchersData,
+		 
+
 	}) => {
   const { checkPermission } = useAuth();
   
@@ -24,35 +26,34 @@ const MenuTable = ({ dataBinding,
   return (
   <>
     <Layouts.ListComponentTableLayout
-  	  items={[dataBinding]}
+  	  items={[vouchersData]}
   	  itemsAttrs={[
           {
-            id: "name",
+            id: "voucherDescription",
             condition: "",
-            label: "name",
-  		  featureName: "name",
-            editable: false
-          }
-  ,
-          {
-            id: "desc",
-            condition: "",
-            label: "desc",
-  		  featureName: "descp",
-            editable: false
-          }
-  ,
-          {
-            id: "price",
-            condition: "",
-            label: "price",
-  		  featureName: "price",
+            label: "voucherDescription",
+  		  featureName: "voucherDescription",
             editable: false
           }
   ]}
+        itemsEvents={(vouchersItem) => [
+          
+          <Link to={`/voucher/${vouchersItem.id}`}>
+            <Button
+          	id="_bXeHMCHmEfCHXrqDtvt3yA"
+              size="sm"
+              variant=
+                  "primary"
+            >
+              Enter Code
+            </Button>
+          </Link>
+          
+          
+        ]}
   	/>
   </>
   )
 };
 
-export default MenuTable;
+export default VouchersTable;

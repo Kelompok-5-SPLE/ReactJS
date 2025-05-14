@@ -12,7 +12,10 @@ import { Button, Modal,Spinner } from '@/commons/components';
 
 import * as Layouts from "@/commons/layouts";
 
-const MenuTable = ({ dataBinding,
+const MenuTable = ({ dataMenu,
+		setSelectedinvalidId, 
+		 
+
 	}) => {
   const { checkPermission } = useAuth();
   
@@ -24,7 +27,7 @@ const MenuTable = ({ dataBinding,
   return (
   <>
     <Layouts.ListComponentTableLayout
-  	  items={[dataBinding]}
+  	  items={[dataMenu]}
   	  itemsAttrs={[
           {
             id: "name",
@@ -38,7 +41,7 @@ const MenuTable = ({ dataBinding,
             id: "desc",
             condition: "",
             label: "desc",
-  		  featureName: "descp",
+  		  featureName: "desc",
             editable: false
           }
   ,
@@ -49,7 +52,34 @@ const MenuTable = ({ dataBinding,
   		  featureName: "price",
             editable: false
           }
+  ,
+          {
+            id: "category",
+            condition: "",
+            label: "category",
+  		  featureName: "category",
+            editable: false
+          }
   ]}
+        itemsEvents={(menuItem) => [
+          
+          
+          
+  ,
+          
+  <Link to=''>
+    <Button 
+  	 id="_UB2skCqOEfCzvIuk6NYakQ"
+       variant=
+                  "secondary"
+      //  onClick={() => delete(menuItem)}
+    >
+       Delete
+    </Button>
+  </Link>
+  
+  
+        ]}
   	/>
   </>
   )

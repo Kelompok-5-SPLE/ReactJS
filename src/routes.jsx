@@ -5,7 +5,10 @@ import roleRoutes from "@/role/routes";
 import staticPageRoutes from "@/staticPage/routes";
 import homeRoutes from "@/home/routes";
 import menuRoutes from "@/menu/routes";
-import voucherPageRoutes from "@/voucherPage/routes";
+import voucherRoutes from "@/voucher/routes";
+// import voucherRoutes from "@/voucher/routes";
+import adminDashboardRoutes from "@/adminDashboard/routes";
+import promoRoutes from "@/promo/routes";
 
 const GlobalRoutes = () => {
   const router = useRoutes([
@@ -15,6 +18,10 @@ const GlobalRoutes = () => {
 	...roleRoutes,
 	...homeRoutes, 
 	...menuRoutes, 
+	...voucherRoutes, 
+	...voucherRoutes, 
+	...adminDashboardRoutes, 
+	...promoRoutes, 
   ])
   return router
 }

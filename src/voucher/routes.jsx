@@ -1,13 +1,14 @@
 /*
-	Generated on 02/05/2025 by UI Generator PRICES-IDE
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
 	https://amanah.cs.ui.ac.id/research/ifml-regen
 	version 3.10.0
 */
-import React from 'react';
+import RequireAuth from '@/commons/auth/RequireAuth'
+
 import VouchersPage from './containers/VouchersPage'
 import InputVoucherCodePage from './containers/InputVoucherCodePage'
 
-const voucherPageRoutes = [
+const voucherRoutes = [
 { 
 	path: "/voucher",
 	element: <VouchersPage />,
@@ -24,4 +25,4 @@ const voucherPageRoutes = [
 
 ]
 
-export default voucherPageRoutes
+export default voucherRoutes
