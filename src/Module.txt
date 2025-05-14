@@ -1,0 +1,708 @@
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
+
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
+
+AdminDashboard
+	tes1 Admin Dashboard Page
+	tes1 Menu Manager Page
+	tes1 Create New Menu Page
+
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
+
+AdminDashboard
+	tes1 Admin Dashboard Page
+	tes1 Menu Manager Page
+	tes1 Create New Menu Page
+
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
+
+AdminDashboard
+	tes1 Admin Dashboard Page
+	tes1 Menu Manager Page
+	tes1 Create New Menu Page
+
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
+
+AdminDashboard
+	tes1 Admin Dashboard Page
+	tes1 Menu Manager Page
+	tes1 Create New Menu Page
+
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
+
+AdminDashboard
+	tes1 Admin Dashboard Page
+	tes1 Menu Manager Page
+	tes1 Create New Menu Page
+
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 06/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
+
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 07/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
+
+AdminDashboard
+	tes1 Admin Dashboard Page
+	tes1 Menu Manager Page
+	tes1 Create New Menu Page
+
+/*
+	Generated on 07/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 07/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 07/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 07/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+AdminDashboard
+	tes1 Admin Dashboard Page
+	tes1 Menu Manager Page
+	tes1 Create New Menu Page
+	tes1 Update Menu Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Voucher
+	tes1 Vouchers Page
+	tes1 Input Voucher Code Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
+
+AdminDashboard
+	tes1 Admin Dashboard Page
+	tes1 Menu Manager Page
+	tes1 Create New Menu Page
+	tes1 Update Menu Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Voucher
+	tes1 Vouchers Page
+	tes1 Input Voucher Code Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
+
+AdminDashboard
+	tes1 Admin Dashboard Page
+	tes1 Menu Manager Page
+	tes1 Create New Menu Page
+	tes1 Update Menu Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
+
+Voucher
+	tes1 Vouchers Page
+	tes1 Input Voucher Code Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
+
+AdminDashboard
+	tes1 Admin Dashboard Page
+	tes1 Menu Manager Page
+	tes1 Create New Menu Page
+	tes1 Update Menu Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Voucher
+	tes1 Vouchers Page
+	tes1 Input Voucher Code Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+AdminDashboard
+	tes1 Admin Dashboard Page
+	tes1 Menu Manager Page
+	tes1 Create New Menu Page
+	tes1 Update Menu Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Voucher
+	tes1 Vouchers Page
+	tes1 Input Voucher Code Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+
+
+
+
+
+Menu
+	tes1 Menu Page
+
+/*
+	Generated on 08/05/2025 by UI Generator PRICES-IDE
+	https://amanah.cs.ui.ac.id/research/ifml-regen
+	version 3.8.0
+*/
+	
+
+
+
